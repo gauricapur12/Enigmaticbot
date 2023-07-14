@@ -1,16 +1,14 @@
-# coronabot-chatterbot
-CoronaBot is a chat bot for answering question regarding Coronavirus
-
-Tutorial - https://studygyaan.com/uncategorised/create-web-based-chatbot-in-python-django-flask
+# Enigmaticbot
+EnigmaBot is a chat bot for answering question regarding your technical requirements
 
 `pip install Flask`
 
 `pip install chatterbot`
 
-`pip install chatterbot-corpus`
+`pip install faiss-cpu`
 
-or 
+`pip install langchain`
 
-`pip install -r requirements.txt`
+`pip install openai`
 
-![Chatbot](https://studygyaan.com/wp-content/uploads/2020/03/Chatbot-in-Python.png?style=centerme)
+then run app.py file
